@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"wid
 
 - 🧐 Atualmente estou fazendo um curso de especialização em desenvolvimento, e consequentemente estou focando na prática desenvolvendo projetos e aumentando meu nível de habilidadade referente à linguagens e conhecimentos sobre Back-End.
 
-- 🧠 Cursava Análise e Desenvolvimento de Sistemas no momento; trancado.
+- 🧠 Atualmente estudando e me atualizando com diversos cursos.
 
 - 🦾 Gosto de desafios, tenho o foco de sempre sair da zona de conforto e aumentar meu nível de conhecimento. Estou a procura de oportunidades para adquirir mais experiências na prática.
 
