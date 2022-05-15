@@ -1,7 +1,7 @@
 <h1> Olá, Salve! Eu sou Denzel Washington! <img 
 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"></h1>
 
-- 🐱‍👤 Desenvolvedor Front-End jr
+- 🐱‍👤 Desenvolvedor Front-End 
 
 - 🧐 Atualmente estou fazendo um curso de especialização em desenvolvimento, e consequentemente estou focando na prática desenvolvendo projetos e aumentando meu nível de habilidadade referente à linguagens e conhecimentos sobre Back-End.
 
