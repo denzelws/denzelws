@@ -20,7 +20,9 @@ src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logo
 <img align="center" alt="SAAS"
 src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img align="center" alt="JAVASCRIPT"
-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="REACT"
+src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 <br>
