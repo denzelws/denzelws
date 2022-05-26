@@ -31,8 +31,6 @@ src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 
 <p align="left">
   
-<img width="530cm" src="https://github-readme-stats.vercel.app/api?username=DenzelWashington&show_icons=true&theme=radical"/>
-  
 <img width="530cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenzelWashington&layout=compact&theme=tokyonight"/>
 </p>
 
