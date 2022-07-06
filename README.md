@@ -3,7 +3,7 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"wid
 
 - 🐱‍👤 Desenvolvedor Front-End 
 
-- 🧐 Atualmente estou fazendo um curso de especialização em desenvolvimento, e consequentemente estou focando na prática desenvolvendo projetos e aumentando meu nível de habilidadade referente à linguagens e conhecimentos sobre Back-End.
+- 🧐 Atualmente estou fazendo um curso de especialização em desenvolvimento, e consequentemente estou focando na prática desenvolvendo projetos e aumentando meu nível de habilidadade referente à linguagens e conhecimentos.
 
 - 🧠 Atualmente estudando e me atualizando com diversos cursos.
 
