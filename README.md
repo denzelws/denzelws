@@ -3,11 +3,11 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"wid
 
 - 🐱‍👤 Desenvolvedor Front-End 
 
-- 🧐 Atualmente estou fazendo um curso de especialização em desenvolvimento, e consequentemente estou focando na prática desenvolvendo projetos e aumentando meu nível de habilidadade referente à linguagens e conhecimentos.
+- 🧐 Tenho experiência em React,Javascript.
 
-- 🧠 Atualmente estudando e me atualizando com diversos cursos.
+- 🧠 Sempre estou estudando e me atualizando com informações diversas.
 
-- 🦾 Gosto de desafios, tenho o foco de sempre sair da zona de conforto e aumentar meu nível de conhecimento. Estou a procura de oportunidades para adquirir mais experiências na prática.
+- 🦾 Gosto de desafios, tenho o foco de sempre sair da zona de conforto e aumentar meu nível de conhecimento. 
 
 <br><br>
 
