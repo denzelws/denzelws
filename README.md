@@ -35,7 +35,8 @@ src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logo
 src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="center" alt="MONGODB"
 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
+<img align="center" alt="NODEJS"
+src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 
 <br>
