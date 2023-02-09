@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"wid
 
 - 🧐 Tenho experiência em React,Javascript.
 
-- 🧠 Sempre estou estudando e me atualizando com informações diversas.
+- 🧠 Autodidata, sempre estou estudando e me atualizando com informações diversas.
 
 - 🦾 Gosto de desafios, tenho o foco de sempre sair da zona de conforto e aumentar meu nível de conhecimento. 
 
