@@ -3,7 +3,7 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"wid
 
 - 🐱‍👤 Desenvolvedor Front-End 
 
-- 🧐 Tenho experiência em React,Javascript,Typescript.
+- 🧐 Tenho experiência em React, Javascript, Typescript.
 
 - 🧠 Autodidata, sempre estou estudando e me atualizando com informações diversas.
 
