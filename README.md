@@ -1,5 +1,12 @@
-<h1> Olá, Salve! Eu sou Denzel Washington! <img 
-src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"></h1>
+<img src='https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg' alt="banner" width='1050' height='250'></img>
+
+
+<h1 align="center">Olá, Salve! Eu sou Denzel Washington!</h1>
+<h3 align="center"> Desenvolvedor Front-End | Brasil (Rj)</h3>
+
+<img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="Coding" width='400' align='right'></img>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelws&label=Profile%20views&color=0e75b6&style=flat" alt="denzelws"/> </p>
 
 - 🐱‍👤 Desenvolvedor Front-End 
 
@@ -9,10 +16,13 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"wid
 
 - 🦾 Gosto de desafios, tenho o foco de sempre sair da zona de conforto e aumentar meu nível de conhecimento. 
 
+<h3 align="left">Conecte comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/denzel-washington-587730185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denzel-washington-587730185" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Tecnologias que domino: 
 <br><br>
-
-## 🛠 &nbsp;Tecnologias que domino
-
 <img align="center" alt="HTML5"
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS"
@@ -37,20 +47,12 @@ src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=pos
 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="center" alt="NODEJS"
 src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
-
-<br>
-
-## ⚙ &nbsp;GitHub Analytics
-
-<p align="left">
-  
-<img width="530cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenzelWashington&layout=compact&theme=tokyonight"/>
-</p>
+  </h3>
 
 <br><br>
 
-## &nbsp;Social Links
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denzelws&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="denzelws" /></p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denzel-washington-587730185/)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=denzelws&theme=nightowl&show_icons=true&locale=en" alt="denzelws" /></p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=denzelws&theme=nightowl&" alt="denzelws" /></p>
