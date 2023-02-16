@@ -16,7 +16,7 @@
 
 - 🦾 Gosto de desafios, tenho o foco de sempre sair da zona de conforto e aumentar meu nível de conhecimento. 
 
-<h3 align="left">Conecte comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/denzel-washington-587730185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denzel-washington-587730185" height="30" width="40" /></a>
 </p>
