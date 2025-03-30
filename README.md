@@ -2,15 +2,15 @@
 
 
 <h1 align="center">Olá, Salve! Eu sou Denzel Washington!</h1>
-<h3 align="center"> Desenvolvedor Front-End | Brasil (Rj)</h3>
+<h3 align="center"> Desenvolvedor Fullstack | Brasil (Rj)</h3>
 
 <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="Coding" width='400' align='right'></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelws&label=Profile%20views&color=0e75b6&style=flat" alt="denzelws"/> </p>
 
-- 🐱‍👤 Desenvolvedor Front-End 
+- 🐱‍👤 Desenvolvedor Fullstack
 
-- 🧐 Tenho experiência em React, Javascript, Typescript.
+- 🧐 Tenho experiência em React, Angular, Javascript, Typescript e Java.
 
 - 🧠 Autodidata, sempre estou estudando e me atualizando com informações diversas.
 
