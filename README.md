@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Denzel Washington**, a **Fullstack Developer** focused on **frontend engineering**, **web products**, and **user-centered applications**.
+I'm **Denzel Washington**, a **Fullstack Developer** focused on **frontend engineering**, **software engineering**, and **production-ready applications**.
 
 ### About me
 
