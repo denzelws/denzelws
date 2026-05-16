@@ -5,7 +5,7 @@ I'm **Denzel Washington**, a **Fullstack Developer** focused on **frontend engin
 ### About me
 
 - Building software with a focus on **frontend engineering**, **product interfaces**, and **production-ready applications**
-- Main stack: **React**, **Angular**, **TypeScript**, **Node.js**, and **Java**
+- Main stack: **React**, **React Native**, **Angular**, **TypeScript**, **Node.js**, and **Java**
 - Daily tools and platforms: **REST APIs**, **GraphQL**, **PostgreSQL**, **Git**, **Jest**, and **AWS**
 - Happy to talk about **software development**, **frontend architecture**, **product engineering**, and **AI-assisted development**
 - No overthinking. Just building / documenting the journey.
