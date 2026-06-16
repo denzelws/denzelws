@@ -13,3 +13,4 @@ I'm **Denzel Washington**, a **Fullstack Developer** focused on **frontend engin
 ### Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://denzelws.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/denzel-washington-587730185)
