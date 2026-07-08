@@ -8,7 +8,6 @@ I'm **Denzel Washington**, a **Fullstack Developer** focused on **frontend engin
 - Main stack: **React**, **React Native**, **Angular**, **TypeScript**, **Node.js**, and **Java**
 - Daily tools and platforms: **REST APIs**, **GraphQL**, **PostgreSQL**, **Git**, **Jest**, and **AWS**
 - Exploring LLM application development with **LangChain**, **local models**, **structured outputs**, **tool usage**, and **AI agents**
-- Interested in software development, frontend architecture, product engineering, AI-assisted development, and practical LLM integrations
 - No overthinking. Just building / documenting the journey.
 
 ### Connect with me
