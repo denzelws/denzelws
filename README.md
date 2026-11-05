@@ -22,8 +22,8 @@ I'm **Denzel Washington**, a **Fullstack Developer** focused on **frontend engin
 - 📅 [Appointment System](https://github.com/denzelws/appointment-system) — full-stack scheduling with JWT, role-based access, Postgres exclusion constraint for overlaps, and OpenTelemetry + SigNoz tracing. Validated under concurrency: 1×201, 9×409, 0×500.
   `TypeScript` · `Fastify` · `React` · `PostgreSQL` · `Vitest` · `OpenTelemetry`
 
-- 🍽 [menu-carga](https://github.com/denzelws/menu-carga) — Spring Boot API that grants module access from JSON or CSV. Flyway owns the schema, a unique index on (person, path) backs the 409, and `mvn verify` runs that load on Postgres 16 in GitHub Actions.
-  `Java 17` · `Spring Boot` · `PostgreSQL` · `Flyway` · `Testcontainers` · `Docker Compose`
+- 🍽 [menu-carga](https://github.com/denzelws/menu-carga) — Spring Boot API that grants module access from JSON or CSV, with an Angular client for lookup, manual grant, and CSV import. Flyway owns the schema, a unique index on (person, path) backs the 409, and `mvn verify` runs that load on Postgres 16 in GitHub Actions.
+  `Java 17` · `Spring Boot` · `PostgreSQL` · `Flyway` · `Testcontainers` · `Docker Compose` · `Angular 21` · `TypeScript` · `Tailwind CSS`
 
 - 🧪 [Study Lab](https://github.com/denzelws/study-lab) — automated interview-prep lab with custom Cursor Agent skills to generate, tutor, and grade TypeScript algorithms by correctness, edge cases, and Big-O.
   `TypeScript` · `tsx` · `Vitest` · `Cursor Agents`
