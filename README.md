@@ -8,6 +8,7 @@ I'm **Denzel Washington**, a **Fullstack Developer** focused on **frontend engin
 - Main stack: **React**, **React Native**, **Angular**, **TypeScript**, **Node.js**, and **Java**
 - Daily tools and platforms: **REST APIs**, **GraphQL**, **PostgreSQL**, **Git**, **Jest**, and **AWS**
 - Exploring LLM application development with **LangChain**, **local models**, **structured outputs**, **tool usage**, and **AI agents**
+- **AWS Certified Cloud Practitioner (CLF-C02)**
 - No overthinking. Just building / documenting the journey.
 
 ### 🔭 What I'm working on
